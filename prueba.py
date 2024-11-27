@@ -10,7 +10,7 @@ def descargar_cancion():
             'preferredcodec': 'mp3',
             'preferredquality': '192',
         }],
-        'outtmpl': r'C:\Users\User\Music\MEmu Music\%(title)s.%(ext)s',  # Ruta de salida
+        'outtmpl': r'C:/storage/emulated/0/Download/%(title)s.%(ext)s',  # Ruta de salida
     }
     
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
