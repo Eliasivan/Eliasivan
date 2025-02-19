@@ -1,3 +1,1 @@
-<big><small></a><br></font><font color='#ffffff' align='center'>════════⚡═════════⚡════════</font><b><font color='red' align='center'><br>🌟 HOLA BIENVENIDOS A ESTE REPO NO OLVIDEN DE DEJAR SU 🌟</color><b></font><br><font color='#FFD700' align='center'>DESCARGA TU MP3</font><br><font color='#00ff7A' align='center'>
-<font color="#9932CC">✴▇▇▇◤▔▔▔▔▔▔▔◥▇▇▇✴ ✴▇▇▇▏◥▇◣┊◢▇◤▕▇▇▇✴ ✴▇▇▇▏▃▆▅▎▅▆▃▕▇▇▇✴ ✴▇▇▇▏╱▔▕▎▔▔╲▕▇▇▇✴ ✴▇▇▇◣◣▃▅▎▅▃◢◢▇▇▇✴ ✴▇▇▇▇◣◥▅▅▅◤◢▇▇▇▇✴ ✴▇▇▇▇▇◣╲▇╱◢▇▇▇▇▇✴ ✴▇▇▇▇▇▇◣▇◢▇▇▇▇▇▇✴ 
-*******************************
+<a href="https://api.whatsapp.com/send/?phone=19392245741&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
