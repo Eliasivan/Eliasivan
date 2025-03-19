@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/Eliasivan">
-    <img src="https://i.imgur.com/fX5rxGE.jpeg" width="800"> </a>
+    <img src="https://files.catbox.moe/64o799.jpg" width="800"> </a>
     </p>
 
 
