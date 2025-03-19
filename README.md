@@ -1,1 +1,8 @@
-<a href="https://api.whatsapp.com/send/?phone=595992667005&text=Hola we&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Ivan-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=fc7b03&background=FF673200&center=true&vCenter=true&lines=Hola,+my+name +is+Ivan;Bienvenido+en+mi+GitHub"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
